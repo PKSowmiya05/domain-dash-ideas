@@ -65,6 +65,6 @@ Choose the method that suits your workflow:
 Want to use your own `.com` or `.dev`?
 1. Go to `Project > Settings > Domains` in Lovable.
 2. Click **Connect Domain**.
-3. Follow this step-by-step guide to set it up.
+3. Follow this step-by-step guide to set it up
 
 Made with 💙 by RunSo
