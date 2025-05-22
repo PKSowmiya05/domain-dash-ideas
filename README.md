@@ -67,4 +67,9 @@ Want to use your own `.com` or `.dev`?
 2. Click **Connect Domain**.
 3. Follow this step-by-step guide to set it up.
 
-Made with 💙 using Lovable & Vercel
+##Project By
+1. Sowmiya PK
+2. Denesh Kumar S
+3. Tharun Kumar V
+
+Made with 💙 by RunSo
